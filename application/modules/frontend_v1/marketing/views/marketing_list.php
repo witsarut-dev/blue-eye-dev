@@ -1,0 +1,1 @@
+<?php $this->load->view("realtime/realtime_list"); ?>

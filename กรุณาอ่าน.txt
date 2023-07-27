@@ -1,0 +1,5 @@
+Setting config
+
+themes\admin\asset\js\ckeditor\filemanager\ckupload.php
+themes\admin\asset\js\ckeditor\filemanager\scripts\filemanager.config.js
+application\config\database.php

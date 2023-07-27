@@ -1,0 +1,14 @@
+{
+    "name": "paralleldots/apis",
+    "description": "Rest Api Wrapper for PHP.",
+    "version": "0.1.4",
+    "keywords": ["Rest Api Wrapper for PHP", "ParallelDots"],
+    "type": "project",
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+    
+}
